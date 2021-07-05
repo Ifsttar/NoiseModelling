@@ -216,9 +216,9 @@ inputs = [
                                    type       : Double.class
         ],
         confFavorableOccurrences: [
-                name       : 'Probability of occurrences table',
-                title      : 'Probability of occurrences table',
-                description: 'Table of probability of occurrences of favourable propagation conditions.' +
+                name       : 'Probability of occurrences',
+                title      : 'Probability of occurrences',
+                description: 'comma-delimited string containing the probability of occurrences of favourable propagation conditions.' +
                         'The north slice is the last array index not the first one<br/>' +
                         'Slice width are 22.5&#176;: (16 slices)<br/><ul>' +
                         '<li>The first column 22.5&#176; contain occurrences between 11.25 to 33.75 &#176;</li>' +
